@@ -1,8 +1,0 @@
--Açık kaynaklıdır ikisinide açarak kodlarına bakabilirsiniz bir hata virüs olursa lütfen iletiniz
-
--eğer açıp daha sonra kapattığınızda vpn'i ve rekabetçi oyunlara veya internete erişim olmazsa Bu Adımları takip ediniz:
-
--Ayarları açın
--Ağ ve İnternete tıklayın
--Ara sunucu kısmına girin
--el ile ara sunucu kurulumu var orda ara sunucu kullanı kapatın o zaman çözülür.
